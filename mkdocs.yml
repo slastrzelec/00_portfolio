@@ -5,6 +5,8 @@ site_description: >-
 theme:
   name: material
 
+repo_name: slastrzelec/portfolio
+repo_url: https://github.com/slastrzelec/portfolio
 
 
 
