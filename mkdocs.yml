@@ -1,0 +1,19 @@
+site_name: Sławomir Strzelec
+site_author: Maciej Sobczak
+site_description: >-
+    Portfolio moich wspaniałych projektów z Data Science i AI!
+theme:
+  name: material
+
+
+
+
+
+
+
+nav:
+  - Strona główna: index.md
+  - O mnie: o-mnie.md
+  - Projekty:
+      - Erytro: 01_erytro/index.md
+      - EDA Chem: 02_eda_chem/EDA_QM9.md 
