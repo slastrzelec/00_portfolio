@@ -5,6 +5,8 @@ Here is the description for your portfolio, formatted in Markdown, based on the 
 ***
 # Screen from app:
 
+https://nanotubes.streamlit.app/
+
 # ![Screen from app](naotubes.png)
 
 # ⚛️ Interactive Carbon Nanotube (CNT) Visualization Tool
@@ -58,5 +60,3 @@ The Streamlit interface provides robust interactive controls:
 * **3D Modeling & Geometry:** Generating and manipulating coordinates in 3D space, handling periodic boundary conditions (rings).
 * **Interactive Development:** Full-stack development using **Streamlit** to deploy complex scientific models as user-friendly web applications.
 * **Data Visualization:** Advanced use of **Matplotlib** to create informative and visually appealing 3D plots with color mapping for data properties.
-
-Would you like to review the generated code or move on to the next project plan?
