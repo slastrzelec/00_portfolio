@@ -14,6 +14,7 @@ In this portfolio, you’ll find selected projects showcasing my analytical skil
 * [EDA QM9](02_eda_chem/EDA_QM9.md) – exploratory data analysis of the QM9 dataset
 * [03_nanotubes](02_eda_chem/EDA_QM9.md) – carbon nanotubes visualization
 * [Raman Spectroscopy Analysis Tool](04_raman/index.md) - tool for analysis of raman spectra
+* [💊 Drug Solubility Prediction using Machine Learning](05_drug_solub/index.md)
 
 ## About Me
 
