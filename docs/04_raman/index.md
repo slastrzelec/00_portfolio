@@ -61,6 +61,6 @@ This project showcases expertise in:
 
 ## 🔗 Project Links
 
-* [Live Demo (Placeholder)](YOUR_DEPLOYMENT_LINK)
-* [GitHub Repository](YOUR_GITHUB_LINK)
+* <a href="https://raman-spectroscopy-analyzer.streamlit.app/" target="_blank">Project Page</a>
+* <a href="https://github.com/slastrzelec/04_Raman-Spectroscopy-Analyzer" target="_blank">GitHub Repository</a>
 
